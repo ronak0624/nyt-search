@@ -1,8 +1,16 @@
+.jumbotron {
+    color: black;
+    background-color: transparent;
+  
+}
+
+
 body {
-    background-image: url("../images/npbk1.jpg");
+    background-image: url("../../assets/images/npbk3.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    background-color: red;
+    background-color: #cccccc;
     max-width: 100%;
     height: auto;
+    font-family: 'Poppins' !important;
 }
