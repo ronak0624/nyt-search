@@ -2,7 +2,11 @@ body {
     background-image: url("../images/npbk1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    background-color: red;
     max-width: 100%;
     height: auto;
+    font-family: 'Europa', sans-serif;
+}
+.jumbotron{
+    background-color: grey;
+    color: white;
 }
